@@ -1,1 +1,1 @@
-# Latihan-NGC Hacktive8
+# Challenge Hacktive8
